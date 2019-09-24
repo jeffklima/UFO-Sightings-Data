@@ -1,1 +1,1 @@
-# UFO-Sightings-Data
+The Jupyter Notebook contains the climate analysis for precipitation and temperature in Honolulu, HI from 08-23-2017 to 08-23-2017 (last twelve months of data) as well as specific trip dates to model the climate temperature normals and precipitation based on historical weather data.
